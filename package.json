@@ -1,6 +1,7 @@
 {
   "name": "redux-cycle",
   "version": "0.1.0",
+  "homepage": "https://skahrz.github.io/training-redux-cycle",
   "private": true,
   "dependencies": {
     "@cycle/run": "^3.1.0",
